@@ -1,0 +1,7 @@
+{
+  "workspace": [
+    "./one/",
+    "./two/"
+  ],
+  "importMap": "import_map.json"
+}
